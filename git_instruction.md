@@ -8,3 +8,7 @@
 
 ## Установка Git
 
+[Загружаем последнюю версию с сайта "https://git-scm.com/downloads"](https://git-scm.com/downloads)
+
+Устанавливаем с настройками по умолчанию.
+
